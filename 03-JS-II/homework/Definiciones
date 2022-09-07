@@ -1,0 +1,7 @@
+for: es una sentencia que genera un bucle en el que se repite un conjunto de líneas de código una cantidad determinada de veces. Para definir la cantidad de veces que este ciclo se va a ejecutar, se define una variable numérica a la cual se le da un valor inicial y se la va incrementando en cada ciclo. Luego, se define el límite al que esta variable tiene que llegar antes de salir del bucle. Esto se hace a través de una condición, la que usualmente es que la variable en cuestión sea menor a un determinado número.
+
+&&: representa al operador AND de la lógica booleane. Solo es verdadero cuando los dos operandos son verdaderos.
+
+||: representa al operador OR de la lógica booleane. Solo es falso cuando los dos operandos son falsos.
+
+!: representa la negación en la lógica booleane. Si el operando es verdadero, el resultado será falso y si el operando es falso el resultado será verdadero.
