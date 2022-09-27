@@ -1,0 +1,3 @@
+Prototype: es una propiedad que tienen las clases en javascript que permite agregar métodos que van a ser compartidos por todos los objetos que sean creados en esa clase, es decir, estos objetos van a poder usar estos métodos.
+
+Constructors: un constructor es un método perteneciente a una clase que permite crear objetos que van a pertenecer a esa clase. Al crear los objetos, se le setean valores en las propiedades del objeto, ya sea por medio de parámetros que se le pasan al constructor o por defecto. El constructor de una clase es llamado cuando se utiliza la palabra clave "new"
