@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/5b/24/a5/5b24a59f73030515436093e56926ce69.jpg");
+}
+h1 {
+    color:brown;
+}
+h3 {
+    color: whitesmoke;
+}
+h4 {
+    color: white;
+}
+#spanId {
+    color: white;
+}
+img {
+    width: 400px;
+}
+.divClass {
+    text-align: center;
+}
+#thirdDiv {
+    height: 600px;
+    max-width: 500px;
+    background: crimson;
+    padding: 50px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    border: 10px solid green;
+}
