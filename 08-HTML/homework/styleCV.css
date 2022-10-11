@@ -1,0 +1,17 @@
+body {
+    background-color:mediumseagreen; 
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+img {
+    display:block;
+    margin: auto;
+    max-width: 200px;
+    border-width: 5px;
+    border-color: rgb(4, 19, 10);
+    border-style: solid;
+}
